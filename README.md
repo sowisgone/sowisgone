@@ -1,5 +1,5 @@
 ## hi, my name's Giordano, i'm a student from brazil that loves writing and codes (sometimes)
-# main langs: js, py, mcfunction & rust
+### main langs: js, py, mcfunction & rust
 
 <!--
 **sowisgone/sowisgone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
