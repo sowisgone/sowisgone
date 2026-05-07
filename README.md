@@ -1,4 +1,4 @@
-## hi, my name's Giordano, i'm a student from brazil that loves writing and codes (sometimes)
+## hi, my name's Giordano, i'm a student from brazil that loves writing and coding (sometimes)
 ### main langs: js, py, mcfunction & rust
 
 <!--
